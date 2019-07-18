@@ -1,1 +1,3 @@
-asd
+class CouponsController < ApplicationController
+
+end
