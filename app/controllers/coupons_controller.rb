@@ -9,4 +9,8 @@ class CouponsController < ApplicationController
     redirect_to coupons_path(@coupon)
   end
 
+  def show
+
+  end
+
 end
