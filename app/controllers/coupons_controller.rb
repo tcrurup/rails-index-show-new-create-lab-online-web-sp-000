@@ -7,5 +7,5 @@ class CouponsController < ApplicationController
     @coupon.coupon_code = params[:coupon][:coupon_code]
 
   end
-  
+
 end
